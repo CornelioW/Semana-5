@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PFe7RWnnNR4IxAc/upH8zBBUlplon/UK6Q6SOZIybhE=",
+  "Source": "PetTrackerApi",
+  "BasePath": "_content/PetTrackerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
